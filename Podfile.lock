@@ -1,0 +1,16 @@
+PODS:
+  - LBConfettiView (1.0.0)
+
+DEPENDENCIES:
+  - LBConfettiView
+
+SPEC REPOS:
+  trunk:
+    - LBConfettiView
+
+SPEC CHECKSUMS:
+  LBConfettiView: 29e99668b3c0dca25160486dd593f91a0ceeca8e
+
+PODFILE CHECKSUM: 4f5ce990938fa989b8ce2c3199d43c39168e4add
+
+COCOAPODS: 1.12.1
