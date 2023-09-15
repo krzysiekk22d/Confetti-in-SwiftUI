@@ -1,0 +1,7 @@
+
+
+IF YOU WANT THIS APP TO WORK YOU MUST IMPORT 'LBConfettiView' BEFOREHAND.
+
+pod 'LBConfettiView'
+
+using cocoapods

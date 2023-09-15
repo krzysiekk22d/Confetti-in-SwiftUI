@@ -11,6 +11,7 @@
 		589C04B42AB3BD1D00EA4545 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 589C04B32AB3BD1D00EA4545 /* ContentView.swift */; };
 		589C04B62AB3BD1E00EA4545 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 589C04B52AB3BD1E00EA4545 /* Assets.xcassets */; };
 		589C04B92AB3BD1E00EA4545 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 589C04B82AB3BD1E00EA4545 /* Preview Assets.xcassets */; };
+		589C04C02AB3C8CA00EA4545 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 589C04BF2AB3C8CA00EA4545 /* README */; };
 		FC40BD3844B9AF37B7963B20 /* Pods_Confetti_in_SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71A09ABBA2AD8E10FAABA9E4 /* Pods_Confetti_in_SwiftUI.framework */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		589C04B32AB3BD1D00EA4545 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		589C04B52AB3BD1E00EA4545 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		589C04B82AB3BD1E00EA4545 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		589C04BF2AB3C8CA00EA4545 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		71A09ABBA2AD8E10FAABA9E4 /* Pods_Confetti_in_SwiftUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Confetti_in_SwiftUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -43,7 +45,6 @@
 				4126F1C49940FA3C21280C9D /* Pods-Confetti in SwiftUI.debug.xcconfig */,
 				39C36062398606DFDB574EEC /* Pods-Confetti in SwiftUI.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -76,6 +77,7 @@
 		589C04B02AB3BD1D00EA4545 /* Confetti in SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				589C04BF2AB3C8CA00EA4545 /* README */,
 				589C04B12AB3BD1D00EA4545 /* Confetti_in_SwiftUIApp.swift */,
 				589C04B32AB3BD1D00EA4545 /* ContentView.swift */,
 				589C04B52AB3BD1E00EA4545 /* Assets.xcassets */,
@@ -152,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				589C04C02AB3C8CA00EA4545 /* README in Resources */,
 				589C04B92AB3BD1E00EA4545 /* Preview Assets.xcassets in Resources */,
 				589C04B62AB3BD1E00EA4545 /* Assets.xcassets in Resources */,
 			);

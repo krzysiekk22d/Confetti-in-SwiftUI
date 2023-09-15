@@ -11,7 +11,7 @@ import LBConfettiView
  struct ContentView: View {
      @State private var isConfettiAnimating = false
      @State private var numForConfettiStyle = 1
-     @State private var confettiView = ConfettiView(frame: UIScreen.main.bounds)
+     @State private var confettiView = ConfettiView(frame: UIScreen().bounds)
 
      var body: some View {
          ZStack {
@@ -69,6 +69,6 @@ import LBConfettiView
      }
 
      func updateUIView(_ uiView: UIView, context: Context) {
-         // Aktualizacja widoku nie jest wymagana
+         // this is not obligatory
      }
  }
